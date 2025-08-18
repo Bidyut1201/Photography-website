@@ -1,18 +1,16 @@
 
 @font-face {
   font-family: 'Monument';
-  src: url('fonts/Monument-Regular.woff2') format('woff2'),
-       url('fonts/Monument-Regular.woff') format('woff'),
-       url('fonts/Monument-Regular.ttf') format('truetype');
+  src: url('MONUMENTEXTENDED-REGULAR.OTF') format('opentype');
+       
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Monument';
-  src: url('fonts/Monument-Bold.woff2') format('woff2'),
-       url('fonts/Monument-Bold.woff') format('woff'),
-       url('fonts/Monument-Bold.ttf') format('truetype');
+  src: url('MONUMENTEXTENDED-ULTRABOLD.OTF') format('opentype');
+       
   font-weight: bold;
   font-style: normal;
 }
@@ -1269,3 +1267,4 @@ html,body{
 
 
 }
+
