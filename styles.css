@@ -54,7 +54,7 @@ html,body{
     align-items: center;
     justify-content: center;
     font-family: 'Monument',sans-serif;
-    font-size: 45px;
+    font-size: 2.2vw;
     letter-spacing: -1px;
     position: relative;
 }
@@ -62,7 +62,7 @@ html,body{
     content: "©";
     font-family: gilroy;
     font-weight: 400;
-    font-size: 22px;
+    font-size: 1.2vw;
     position: absolute;
     top: 22%;
     right: 15%;
@@ -71,8 +71,8 @@ html,body{
     content: "model management";
     font-family: gilroy;
     font-weight: 500;
-    color: #666;
-    font-size: 15px;
+/*     color: #666; */
+    font-size: 0.8vw;
     letter-spacing: 0.1px;
     position: absolute;
     bottom: 22%;
@@ -1267,4 +1267,5 @@ html,body{
 
 
 }
+
 
